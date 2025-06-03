@@ -6,7 +6,7 @@
 研究会発表日：2025年3月7日  
 ## 2.プログラムファイル
 本プログラムを実行するには[DXライブラリ](https://dxlib.xsrv.jp/)が必要です。
-| First Header  | Second Header |
+| ファイル名     |    内容       |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
