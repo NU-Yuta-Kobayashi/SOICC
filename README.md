@@ -8,10 +8,10 @@
 本プログラムを実行するには[DXライブラリ](https://dxlib.xsrv.jp/)が必要です。
 | ファイル名     |    内容       |
 | ------------- | ------------- |
-| MLP.h      | Content Cell  |
-| CNN.h      | Content Cell  |
-| SMP.h      | Content Cell  |
-| DxMain.cpp | Content Cell  |
-| MLP.cpp    | Content Cell  |
-| CNN.cpp    | Content Cell  |
-| SMP.cpp    | Content Cell  |
+| MLP.h      | MLPのパラメータ設定  |
+| CNN.h      | CNNのパラメータ設定  |
+| SMP.h      | SMPのパラメータ設定  |
+| DxMain.cpp | メインファイル       |
+| MLP.cpp    | MLPのコード |
+| CNN.cpp    | CNNのコード |
+| SMP.cpp    | SMPのコード |
