@@ -3,7 +3,7 @@
 これはサンプルです
 これはサンプルです
 #### 講演論文
-[電子情報通信学会 講演論文 詳細] (https://ken.ieice.org/ken/paper/20250307mcjn/)
+[電子情報通信学会 講演論文 詳細](https://ken.ieice.org/ken/paper/20250307mcjn/)
 
 ## 2.ソースファイル
 
